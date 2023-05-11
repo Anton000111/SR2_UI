@@ -1,6 +1,6 @@
 {
   "name": "sr2_ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Web UI for SR2",
   "main": "index.js",
   "type": "module",
@@ -17,6 +17,13 @@
     "url": "https://github.com/Anton000111/SR2_UI/issues"
   },
   "homepage": "https://github.com/Anton000111/SR2_UI#readme",
+  "keywords": [
+    "nodejs",
+    "script",
+    "manual",
+    "package",
+    "react"
+  ],
   "dependencies": {
     "express": "^4.18.2",
     "open": "^9.1.0"

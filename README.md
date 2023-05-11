@@ -82,12 +82,11 @@ Description support **markdown**
 
 Result view:
 
-![image](https://github.com/Anton000111/SR2_UI/assets/40431545/ed15a70c-8b7e-4a71-8d75-391285395654)
+![image](https://github.com/Anton000111/SR2_UI/assets/40431545/38c31f81-e766-4db5-928d-0fcacefce18f)
 
-![image](https://github.com/Anton000111/SR2_UI/assets/40431545/4390019b-3e57-4930-93a7-686e01cd8fce)
+![image](https://github.com/Anton000111/SR2_UI/assets/40431545/5b7d366f-76ed-4536-bc92-f9d5d3d8a7bd)
 
-![image](https://github.com/Anton000111/SR2_UI/assets/40431545/16aed1a9-a8e1-4cff-8cdb-d54963f866b0)
 
 Click on Run button will execute a command and open output stream from your native console to the page.
 
-![image](https://github.com/Anton000111/SR2_UI/assets/40431545/4325b179-2054-481f-992b-0438c38e78d2)
+![image](https://github.com/Anton000111/SR2_UI/assets/40431545/c802ce12-b772-4dc6-b458-152dc82d72fc)
